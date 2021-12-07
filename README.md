@@ -10,3 +10,7 @@ Sample website with plenty of files for demos. This is just a simple purpose.
 ## Deployment
 
 this is a deployment section.
+
+## Copyright
+
+Quick notice
