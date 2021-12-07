@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 showing how to use.
-Add some more text for rbase, then more changes from myfeature too.
+Add some more text for rbase, then more changes from myfeature too. Adding emergency fix.
 
 ## Purpose
 
