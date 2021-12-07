@@ -5,6 +5,8 @@ showing how to use.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. This is just a simple purpose.
 
 ## Deployment
+
+this is a deployment section.
