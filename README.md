@@ -15,4 +15,4 @@ Add something new.
 
 ## Copyright
 
-Quick notice
+Quick notice. All rights reserved.
